@@ -93,5 +93,10 @@ y me levanto y piso con pies ciegos</p>
 <p>donde yo sigo a un hombre que tropieza</p>
 <p>y se levanta y dice al verme: nadie.</p>
 
+![imagen](https://user-images.githubusercontent.com/119714900/221373675-728481f8-cca6-4c2a-b01c-986fd0d4c536.png)
+
+![imagen](https://user-images.githubusercontent.com/119714900/221373686-7c683798-555c-4d2a-ba3b-5798a1ed7e7c.png)
+
+![imagen](https://user-images.githubusercontent.com/119714900/221373689-eda80aa6-6d74-496f-8c60-591711818904.png)
 
 
