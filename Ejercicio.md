@@ -14,3 +14,4 @@ Ejercicio que calcula cuánto tiempo se tarda en leer los nombres de determinado
 <b> negrita </b>
 <b> <p> Hoy es <br> sábado </p> </b>
 
+![imagen](https://user-images.githubusercontent.com/119714900/221373047-6ffe1d3d-1637-49a7-bb5b-3274a355c806.png)
