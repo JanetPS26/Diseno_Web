@@ -93,10 +93,8 @@ y me levanto y piso con pies ciegos</p>
 <p>y se levanta y dice al verme: nadie.</p>
 
 
-![imagen](https://user-images.githubusercontent.com/119714900/221373675-728481f8-cca6-4c2a-b01c-986fd0d4c536.png)
-
-![imagen](https://user-images.githubusercontent.com/119714900/221373686-7c683798-555c-4d2a-ba3b-5798a1ed7e7c.png)
-
-![imagen](https://user-images.githubusercontent.com/119714900/221373689-eda80aa6-6d74-496f-8c60-591711818904.png)
+![imagen](https://user-images.githubusercontent.com/119714900/221374308-58b12ac6-dc6b-4c75-b050-301766322efb.png)
+![imagen](https://user-images.githubusercontent.com/119714900/221374314-4c205393-a799-47f9-82ce-8c85b756fc8b.png)
+![imagen](https://user-images.githubusercontent.com/119714900/221374316-06da9a26-8e2b-4b4f-8da9-9f960f7104e7.png)
 
 
