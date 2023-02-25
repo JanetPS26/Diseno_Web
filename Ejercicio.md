@@ -19,60 +19,59 @@ Ejercicio que calcula cuánto tiempo se tarda en leer los nombres de determinado
 # Ejercicio 25-02-2023
 <h1> 5 poemas de Octavio Paz</h1>
 <br>
+<img src="octavio-paz-e1512378346848.jpg" alt="Octavio Paz">
 <p> Poeta y ensayista mexicano, recibió el Premio Nobel de literatura en 1990 como reconocimiento a su obra literaria. Aquí te ofrecemos 5 poemas de Octavio Paz. </p>
 
-<h2><b><e> Decir, hacer </h2></br>
-<p><center> A Roman Jakobson</p>
-
-Entre lo que veo y digo,</br>
-Entre lo que digo y callo,</br>
-Entre lo que callo y sueño,</br>
-Entre lo que sueño y olvido</br>
-La poesía.</br>
-Se desliza entre el sí y el no:</br>
-dice</b>
-lo que callo,</b>
-calla</b>
-lo que digo,</b>
-sueña</b>
-<p>lo que olvido.</b>
-<p>No es un decir:</b>
-<p>es un hacer.</b>
-<p>Es un hacer</b>
-<p>que es un decir.</b>
-<p>La poesía</b>
-<p>se dice y se oye:</b>
-
-<p>es real.</p>
-<p>Y apenas digo</p>
-<p>es real,</p>
-<p>se disipa.</p>
-<p>¿Así es más real?</p>
-<p>Idea palpable,</p>
-<p>palabra</p>
-<p>impalpable:</p>
-<p>la poesía</p>
-<p>va y viene</p>
-<p>entre lo que es</p>
-<p>y lo que no es.</p>
-<p>Teje reflejos</p>
-<p>y los desteje.</p>
-<p>La poesía</p>
-<p>siembra ojos en las páginas</p>
-<p>siembra palabras en los ojos.</p>
-<p>Los ojos hablan</p>
-<p>las palabras miran,</p>
-<p>las miradas piensan.</p>
-<p>Oír</p>
-<p>los pensamientos,</p>
-<p>ver</p>
-<p>lo que decimos</p>
-<p>tocar</p>
-<p>el cuerpo</p>
-<p>de la idea.</p>
-<p>Los ojos</p>
-<p>se cierran</p>
-<p>Las palabras se abren.</p></e></center>
+<p><b><e><center>Decir, hacer</b><br>
+A Roman Jakobson<br>
+Entre lo que veo y digo,<br>
+Entre lo que digo y callo,<br>
+Entre lo que callo y sueño,<br>
+Entre lo que sueño y olvido<br>
+La poesía.<br>
+Se desliza entre el sí y el no:<br>
+dice<br>
+lo que callo,<br>
+calla<br>
+lo que digo,<br>
+sueña<br>
+lo que olvido.<br>
+No es un decir:<br>
+es un hacer.<br>
+Es un hacer<br>
+que es un decir.<br>
+La poesía<br>
+se dice y se oye:<br>
+es real.<br>
+Y apenas digo<br>
+es real,<br>
+se disipa.<br>
+¿Así es más real?<br>
+Idea palpable,<br>
+palabra<br>
+impalpable:<br>
+la poesía<br>
+va y viene<br>
+entre lo que es<br>
+y lo que no es.<br>
+Teje reflejos<br>
+y los desteje.<br>
+La poesía<br>
+siembra ojos en las páginas<br>
+siembra palabras en los ojos.<br>
+Los ojos hablan<br>
+las palabras miran,<br>
+las miradas piensan.<br>
+Oír<br>
+los pensamientos,<br>
+ver<br>
+lo que decimos<br>
+tocar<br>
+el cuerpo<br>
+de la idea.<br>
+Los ojos<br>
+se cierran<br>
+Las palabras se abren.</p></e></center>
 
 
 
@@ -92,6 +91,7 @@ y me levanto y piso con pies ciegos</p>
 <p>donde nadie me espera ni me sigue,</p>
 <p>donde yo sigo a un hombre que tropieza</p>
 <p>y se levanta y dice al verme: nadie.</p>
+
 
 ![imagen](https://user-images.githubusercontent.com/119714900/221373675-728481f8-cca6-4c2a-b01c-986fd0d4c536.png)
 
