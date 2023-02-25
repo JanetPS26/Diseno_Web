@@ -17,12 +17,12 @@ Ejercicio que calcula cuánto tiempo se tarda en leer los nombres de determinado
 ![imagen](https://user-images.githubusercontent.com/119714900/221373047-6ffe1d3d-1637-49a7-bb5b-3274a355c806.png)
 
 # Ejercicio 25-02-2023
-<h1> 5 poemas de Octavio Paz</h1>
+<center><h1> 5 poemas de Octavio Paz</h1>
 <br>
-<img src="octavio-paz-e1512378346848.jpg" alt="Octavio Paz">
-<p> Poeta y ensayista mexicano, recibió el Premio Nobel de literatura en 1990 como reconocimiento a su obra literaria. Aquí te ofrecemos 5 poemas de Octavio Paz. </p>
+</width><img src="octavio-paz-e1512378346848.jpg" alt="Octavio Paz" width="300px" height="200px">
+<p><b><i>Poeta y ensayista mexicano, recibió el Premio Nobel de literatura en 1990 como reconocimiento a su obra literaria. Aquí te ofrecemos 5 poemas de Octavio Paz. </p></i></b>
 
-<p><b><e><center>Decir, hacer</b><br>
+<p><b><e>Decir, hacer</b><br>
 A Roman Jakobson<br>
 Entre lo que veo y digo,<br>
 Entre lo que digo y callo,<br>
